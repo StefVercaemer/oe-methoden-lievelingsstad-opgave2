@@ -18,6 +18,8 @@ namespace Lievelings.Wpf
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    /// 
+    //aanpassing thuis
     public partial class MainWindow : Window
     {
         string stad;
